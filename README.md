@@ -1,4 +1,4 @@
-# ex_algoritmo.
+# Algoritmo-Python-Geek-University.
 
 - Lógica de Programação;
 - Algoritmos;
