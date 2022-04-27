@@ -1,4 +1,4 @@
-<img align="right" height="580em" src="https://raw.githubusercontent.com/gist/fernandodatagrind/688c369efca3c0427becd2a7b21de4f5/raw/3775b138e21433e8b58a7c12640e9ef5f7cbf602/sqllogo.svg"/>
+<img align="right" height="580em" src="https://raw.githubusercontent.com/gist/fernandodatagrind/491453ba4443617662cfce3008419f98/raw/2abdedfc98fa3cbdea1fa76367e1ca140cac48c8/algoritmo.svg"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Algoritmo-Python-Geek-University&color=yellow" alt="Profile views" /> </p>
